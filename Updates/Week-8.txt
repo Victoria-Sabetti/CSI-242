@@ -1,0 +1,6 @@
+codeword 2/22: whisper
+participation: had my camera on during Zoom lecture/PNNL presentation
+codeword 2/24: Lux
+participation: had my camera on during Zoom lecture/attended IT job fair
+self-directed learning: worked on game and ended up using other game I had worked on prior to Kaboom game in VS Code because I was having more issues with Kaboom game.
+Just updated VS Code game resolving a couple issues with first commit
